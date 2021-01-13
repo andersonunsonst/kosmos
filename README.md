@@ -16,4 +16,4 @@ A real existência de um novo framework web na linguagem python foi algumas difi
 - Recursos Extras Pŕe Configurados
 - Segurança Xss e Sql-Injection
 - Desenvolvimento e Performance Flash
-- [Documentação Oficial](https://jocm-aguiar.gitbook.io/kosmos/?target=_blank)
+- [Documentação Oficial](https://jocm-aguiar.gitbook.io/kosmos/)
